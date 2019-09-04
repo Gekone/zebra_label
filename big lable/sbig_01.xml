@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE labels SYSTEM "label.dtd">
+<labels _FORMAT="E:SBIG_01.ZPL" _QUANTITY="1" _PRINTERNAME="Printer 1" _JOBNAME="LBL101">
+	<label>
+		<variable name="nome_prodotto">MSK PROFESSIONAL</variable>
+		<variable name="descrizione_4">erfer er v rt v rt vr v tr v rt v tr vtr</variable>
+		<variable name="descrizione_3">blsdsdsgeg rtgvrtv rtv rt vt rv rt vrtvr</variable>
+		<variable name="descrizione_2">Sample </variable>
+		<variable name="descrizione_1">descrizione in italiano del prodotto 2de</variable>
+		<variable name="ean_13">8014846000164</variable>
+		<variable name="uxi">14</variable>
+		<variable name="item_code">1300/14</variable>
+		<variable name="um">PCS</variable>
+		<variable name="net_weight">12,67</variable>
+		<variable name="gross_weight">13,78</variable>
+		<variable name="barcode_mglog">WL990000659000010136201900000004038</variable>
+		<variable name="itf_14">12345612345619</variable>
+	</label>
+</labels>
