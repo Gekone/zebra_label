@@ -11,6 +11,8 @@
 		<variable name="uxi">14</variable>
 		<variable name="item_code">1300/14</variable>
 		<variable name="um">PCS</variable>
+		<variable name="add_var_2">Sample</variable>
+		<variable name="add_var_1">Sample</variable>
 		<variable name="net_weight">12,67</variable>
 		<variable name="gross_weight">13,78</variable>
 		<variable name="barcode_mglog">WL990000659000010136201900000004038</variable>
