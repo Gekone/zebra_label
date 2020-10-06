@@ -3,23 +3,29 @@
 <labels _FORMAT="E:SHP_GE_1.ZPL" _QUANTITY="1" _PRINTERNAME="Printer 1" _JOBNAME="LBL101">
 	<label>
 		<variable name="v_sscc_ship_container">0018014846000312313</variable>
-		<variable name="v_sscc_ship_container_text_info">180148460000000017</variable>
 		<variable name="v_sscc_ship_container_text">(00) 1 80148460 00000001 7</variable>
+		<variable name="v_finaldestination_4">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_ship_4">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_ship_container_type_3">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
+		<variable name="v_ship_container_type_4">XXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_ship_container_type_2">80 x 120 x 184 CM - 400.00 KG</variable>
 		<variable name="v_ship_container_type_1">PALLET A PERDERE</variable>
+		<variable name="v_order_informations">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_order_your_rif">OUR RIF OVC 45 DEL 11/01/2019 ( YOU</variable>
+		<variable name="v_finaldestination_5">SampleSampleSample</variable>
 		<variable name="v_order_our_rif">OVC N 25 DEL 11/12/2018</variable>
-		<variable name="v_ship_6"># Cod Dest Rif</variable>
+		<variable name="v_ship_5"># Cod_Forn RIF</variable>
+		<variable name="v_finaldestination_1">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
+		<variable name="v_finaldestination_3">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_from_4">ITALY</variable>
 		<variable name="v_from_3">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
+		<variable name="v_finaldestination_2">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_ship_1">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_ship_3">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_from_2">VIA DELL'ARTIGIANATO N 22</variable>
 		<variable name="v_ship_2">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_from_1">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_serial_ship_container">030000080593</variable>
-		<variable name="v_ship_7">G#01201</variable>
+		<variable name="v_ship_g">G#01201</variable>
 	</label>
 </labels>
