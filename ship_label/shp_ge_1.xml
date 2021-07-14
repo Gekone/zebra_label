@@ -7,10 +7,10 @@
 		<variable name="v_finaldestination_4">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_ship_4">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
 		<variable name="v_ship_container_type_3">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
-		<variable name="v_ship_container_type_4">XXXXXXXXXXXXXXXXXXXX</variable>
+		<variable name="v_ship_container_type_4">XXXXXXXXX</variable>
 		<variable name="v_ship_container_type_2">80 x 120 x 184 CM - 400.00 KG</variable>
 		<variable name="v_ship_container_type_1">PALLET A PERDERE</variable>
-		<variable name="v_order_informations">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</variable>
+		<variable name="v_order_informations">YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX </variable>
 		<variable name="v_order_your_rif">OUR RIF OVC 45 DEL 11/01/2019 ( YOU</variable>
 		<variable name="v_finaldestination_5">SampleSampleSample</variable>
 		<variable name="v_order_our_rif">OVC N 25 DEL 11/12/2018</variable>
